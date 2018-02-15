@@ -14,7 +14,7 @@ The purpose of this script is to have turtles chop down large redwood trees on t
 
 ## Demonstration
 
-![animated gif](https://i.imgur.com/65z633B.gif)
+![animated gif](https://i.imgur.com/spabARl.gif)
 
 ## Usage
 
