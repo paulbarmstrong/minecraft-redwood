@@ -6,15 +6,15 @@
 * Date: May 2017 (but updated and uploaded more recently)
 * Progress: 100%
 
+## Demonstration
+
+![animated gif](https://i.imgur.com/PejNyOH.gif)
+
 ## Description
 
 This script tells a robot to chop down trees in Minecraft. ComputerCraft is a mod for Minecraft which adds unix terminal-style computers to the game. These computers can run programs in the Lua programming language. The mod includes "turtles" which are mobile computers that can interact with the Minecraft world.
 
 The purpose of this script is to have turtles chop down large redwood trees on their own. Redwood trees are two blocks long, two blocks wide, and hundreds of blocks tall. While cutting down a tree, the turtle must keep track of the height of the tree and must perform occasional refueling. When the turtle returns to the base of the cut down tree, it replants the tree, exchanges resources with a storage system, and then waits for the tree to regrow.
-
-## Demonstration
-
-![animated gif](https://i.imgur.com/PejNyOH.gif)
 
 ## Usage
 
