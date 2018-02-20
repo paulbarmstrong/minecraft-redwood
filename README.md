@@ -18,7 +18,7 @@ The purpose of this script is to have turtles chop down large redwood trees on t
 
 ## Usage
 
-To use this script in your ComputerCraft single player or server you will need place down a turtle and turn it on. To put this script onto the turtle you need to put *redwood.lua* into your *minecraft/saves/[Name of your world]/computer/0* folder. After a server restart the turtle should have a file called redwood.
+To use this script in your ComputerCraft single player or server you will need place down a turtle and turn it on. To put this script onto the turtle you need to put *redwood.lua* into your *minecraft/saves/[Name of your world]/computer/0* folder and rename it to *redwood*. After a server restart the turtle should have a file called redwood.
 
 Requirements for the script to work properly:
 * First inventory slot contains fuel (ex. charcoal)
